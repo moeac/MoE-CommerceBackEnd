@@ -3,7 +3,7 @@
 
 [![m8](https://img.shields.io/badge/Contributors-Me-orange?style=flat&logo=github&logoColor=orange)](https://github.com/moeac)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/moeac/MoE-CommerceBackend)
+![GitHub last commit](https://img.shields.io/github/last-commit/moeac/MoE-CommerceBackEnd)
 
 ## **Contents**
 - [Description](#description)
@@ -64,7 +64,7 @@ Shout out to the real MVP, Stack Overflow
 
 ## **Links**
 
-[![ecommerce link](https://img.shields.io/badge/GitHubLink-MoECommerceBackend-orange?style=flat&logo=github&logoColor=orange)](https://github.com/moeac/MoE-CommerceBackend)
-[![video link](https://img.shields.io/badge/ScreenCastifyLink-MoECommerceBackend-ff8282?style=flat&logo=screencastify&logoColor=ff8282)](https://watch.screencastify.com/v/i6llKrESIxXXVtanfBit)
+[![ecommerce link](https://img.shields.io/badge/GitHubLink-MoECommerceBackEnd-orange?style=flat&logo=github&logoColor=orange)](https://github.com/moeac/MoE-CommerceBackend)
+[![video link](https://img.shields.io/badge/ScreenCastifyLink-MoECommerceBackEnd-ff8282?style=flat&logo=screencastify&logoColor=ff8282)](https://watch.screencastify.com/v/i6llKrESIxXXVtanfBit)
 
 
